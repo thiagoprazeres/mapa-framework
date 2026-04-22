@@ -1,7 +1,18 @@
 # Âncoras teóricas
 
-## 1. Margaret Boden — Criatividade computacional
-Distinção entre criatividade **combinacional** (novas combinações de ideias familiares), **exploratória** (explorar espaços conceituais existentes) e **transformacional** (restruturar o espaço conceitual). O agente AI opera principalmente nos dois primeiros níveis; o humano aporta o terceiro. O MAPA depende dessa distinção para alocar responsabilidades.
+## 1. Margaret Boden — Criatividade computacional ⭐ âncora conceitual central
+
+Boden é a fundação filosófica do MAPA. Sua taxonomia de criatividade define **quem faz o quê** na parceria humano-agente:
+
+- **Combinacional:** novas combinações de ideias familiares — o agente executa com maestria
+- **Exploratória:** navegar e expandir espaços conceituais existentes — agente + humano em co-pilotagem
+- **Transformacional:** reestruturar o próprio espaço conceitual, criar novas regras do jogo — **domínio exclusivamente humano**
+
+O MAPA é uma instância do Closed-Loop Person-to-Person Service System Framework exatamente porque reconhece esse limite: o agente amplifica as criatividades combinacional e exploratória do humano; a transformacional — o insight que muda o quadro — permanece com quem tem pele no jogo.
+
+> *"Creativity is not magic. It depends on everything that we know."* — Margaret Boden
+
+Implicação prática: quando o agente propõe algo inesperado, avaliar em qual nível opera. Se for combinacional/exploratório, aceitar e iterar. Se parecer transformacional, investigar — pode ser alucinação criativa, não insight genuíno.
 
 ## 2. Christian Bird — Empirical SE
 Code review, qualidade de software, práticas mensuráveis em contexto real. Fundamenta a necessidade de métricas concretas no workflow — não basta o agente "funcionar", precisa ser verificável.
